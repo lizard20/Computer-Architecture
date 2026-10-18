@@ -1,5 +1,5 @@
-# Computer-Architecture
-Computer Organization and Design. The hardware and software interface
+# Computer Organization and Design (Solution Manual)
 
-Authors: David A. Patterson and Jhon L. Hennessy
-Edition: 4th
+Solution to selected problems of the book: Computer Organization and 
+Design. The hardware and software interface, David A. Patterson 
+and Jhon L. Hennessy,  4th Edition
